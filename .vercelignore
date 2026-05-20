@@ -8,5 +8,4 @@ public/videos/
 *.mp4
 *.webm
 *.mp3
-.vercel
-.env*.local
+.restore-backup-*/
